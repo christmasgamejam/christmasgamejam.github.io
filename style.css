@@ -1,0 +1,102 @@
+body {
+    background-position:0% 0%;
+    background: url('jas90.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #00eeff;
+}
+    
+    .view_jam_page a, .view_jam_page .game_grid_widget .game_cell .game_title a.title {
+    color: #285e94;
+    }
+    
+    .view_jam_page .jam_body,
+    .view_jam_page .grid_outer {
+    background-color: #c6e6e8;
+    }
+    
+    .view_jam_page .jam_body {
+    box-shadow: 0 0 0 2px transparent;
+    }
+    
+    .view_jam_page .stats_container a:hover {
+    color: #285e94;
+    }
+    
+    .view_jam_page .button {
+    background-color: #285e94;
+    color: #ffffff;
+    text-shadow: 0 1px 0px #1b5187;
+    border-color: #1b5187;
+    }
+    
+    
+    .view_jam_page .button:hover {
+    background-color: #30669c !important;
+    }
+    
+    .view_jam_page .button:active {
+    background-color: #23598f !important;
+    }
+    
+    .view_jam_page .jam_submitter_widget,
+    .view_jam_page .jam_header_widget,
+    .view_jam_page .jam_header_widget .stat_box
+    {
+    border-color: #afcfd1;
+    }
+    
+    .view_jam_page .formatted hr {
+    background-color: #afcfd1;
+    }
+    
+    .view_jam_page .grid_outer .itch_footer {
+    border-top: 1px solid #a5c5c7 !important;
+    background-color: #afcfd1;
+    }
+    
+    .view_jam_page .grid_outer .header_row {
+    border-color: #afcfd1;
+    }
+    
+    .view_jam_page .game_grid_widget .game_cell .game_text,
+    .view_jam_page .grid_outer .game_count,
+    .view_jam_page .grid_outer .footer_submissions {
+    color: #416163 !important;
+    }
+    
+    .view_jam_page .game_grid_widget .game_cell .game_platform,
+    .view_jam_page .game_grid_widget .game_cell .game_genre,
+    .view_jam_page .game_grid_widget .game_cell .game_author a,
+    .view_jam_page .grid_outer .powerd_by {
+    color: #628284 !important;
+    }
+    
+    .view_jam_page .jam_filter_picker {
+    border-color: #afcfd1 !important;
+    }
+    
+    .view_jam_page .header_tabs .header_tab.active,
+    .view_jam_page .header_tabs .header_tab:hover {
+    border-color: #285e94;
+    }
+    
+    .view_jam_page .header_tabs .community_activity {
+    background-color: #afcfd1;
+    color: #285e94;
+    }
+    
+    .view_jam_page .jam_filter_picker .filter_item {
+    color: #628284 !important;
+    }
+    
+    .view_jam_page .jam_filter_picker .filter_item:hover,
+    .view_jam_page .jam_filter_picker .filter_item.active
+    {
+    color: #416163 !important;
+    border-color: #285e94 !important;
+    }
+    
+    .view_jam_page .jam_filter_picker .divider {
+    color: #416163;
+}
